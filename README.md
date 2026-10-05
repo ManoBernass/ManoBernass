@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
 </div>
 
 ###
@@ -35,6 +35,12 @@
   <a href="https://open.spotify.com/user/e94emnxen9jgfxp5h2i3ovdnx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
   </a>
+</div>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="376" src="https://user-images.githubusercontent.com/4249591/31580204-abab68b2-b116-11e7-9fa6-db5a152c17fa.gif"  />
 </div>
 
 ###
