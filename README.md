@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=200&section=header&text=Hi%2C%20I'm%20Bernardo%20F%20Venancio%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f0f0f0&height=200&section=header&text=Hi%2C%20I'm%20Bernardo%20F%20Venancio%20%F0%9F%91%8B&fontSize=40&fontColor=000000&animation=fadeIn" width="100%" alt="banner" />
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=11D452&center=true&vCenter=true&width=480&lines=Desenvolvedor%20Full-Stack;Always%20building%20something%20new" alt="Typing SVG" /></p>
 
@@ -41,4 +41,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoBernass&theme=dark" alt="GitHub Streak" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=100&section=header&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=f0f0f0&section=footer&reversal=true&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" alt="banner" />
