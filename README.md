@@ -40,9 +40,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoBernass&theme=dark" alt="GitHub Streak" />
 </p>
-
-<a href="https://open.spotify.com/user/e94emnxen9jgfxp5h2i3ovdnx" align="center">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=e94emnxen9jgfxp5h2i3ovdnx&amp;theme=spotify&amp;width=600" alt="Spotify recently played" width="600" />
-</a>
-
+<p align="center">
+  <a href="https://open.spotify.com/user/e94emnxen9jgfxp5h2i3ovdnx">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=e94emnxen9jgfxp5h2i3ovdnx&amp;theme=spotify&amp;width=600" alt="Spotify recently played" width="600" />
+  </a>
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=f0f0f0&section=footer&reversal=true&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" alt="banner" />
