@@ -35,9 +35,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManoBernass&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p align="center">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoBernass&theme=dark" alt="GitHub Streak" />
 </p>
 <p align="center">
